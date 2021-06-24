@@ -1,0 +1,463 @@
+fileFormatVersion: 2
+guid: 85ca28143d6916046b4087ffc51f252e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 413855903201045142
+    second: Batso_idle_0
+  - first:
+      213: 1854706488067199737
+    second: Batso_idle_1
+  - first:
+      213: 5281707725252854389
+    second: Batso_idle_2
+  - first:
+      213: 2902064209557099386
+    second: Batso_0
+  - first:
+      213: 858613505899372857
+    second: Batso_1
+  - first:
+      213: 5462110482692299001
+    second: Batso_2
+  - first:
+      213: 6122626662506277555
+    second: Batso_3
+  - first:
+      213: 4561298868521049379
+    second: Batso_4
+  - first:
+      213: 8386959633613664450
+    second: Batso_5
+  - first:
+      213: -1003632272050555196
+    second: Batso_6
+  - first:
+      213: -8486905876677258687
+    second: Batso_7
+  - first:
+      213: 8379537535009733199
+    second: Batso_8
+  - first:
+      213: -2598644453345600772
+    second: Batso_9
+  - first:
+      213: 8107778382326797944
+    second: Batso_10
+  - first:
+      213: -3158237648759667482
+    second: Batso_11
+  - first:
+      213: -3462414916658210811
+    second: Batso_12
+  - first:
+      213: 8408332510608121241
+    second: Batso_13
+  - first:
+      213: 6510293886100288640
+    second: Batso_14
+  - first:
+      213: -6767350005309368434
+    second: Batso_15
+  - first:
+      213: 8946762703763716217
+    second: Batso_16
+  - first:
+      213: 7165415224475658919
+    second: Batso_17
+  - first:
+      213: 2932664044178797892
+    second: Batso_18
+  - first:
+      213: -389587853830501888
+    second: Batso_19
+  - first:
+      213: 2504803790193201646
+    second: Batso_20
+  - first:
+      213: 4895118041478974699
+    second: Batso_21
+  - first:
+      213: -8032711967227523866
+    second: Batso_22
+  - first:
+      213: -2360517312744195987
+    second: Batso_23
+  - first:
+      213: 3747203919721433711
+    second: Batso_24
+  - first:
+      213: -7887978268951335300
+    second: Batso_25
+  - first:
+      213: 8568598534851778349
+    second: Batso_26
+  - first:
+      213: 2718102788784765449
+    second: Batso_27
+  - first:
+      213: -917693695474907643
+    second: Batso_28
+  - first:
+      213: 3069531508310040970
+    second: Batso_29
+  - first:
+      213: -9077481642220882711
+    second: Batso_30
+  - first:
+      213: 6398425081758415431
+    second: Batso_31
+  - first:
+      213: 2321102846528698513
+    second: Batso_32
+  - first:
+      213: -6346646400807035258
+    second: Batso_33
+  - first:
+      213: -8641130711266568399
+    second: Batso_34
+  - first:
+      213: 101095714402711946
+    second: Batso_35
+  - first:
+      213: -5086535720282887556
+    second: Batso_36
+  - first:
+      213: -6762863775892345690
+    second: Batso_37
+  - first:
+      213: -5704511415613790650
+    second: Batso_38
+  - first:
+      213: -3076268656758845377
+    second: Batso_39
+  - first:
+      213: -5356913500113551759
+    second: Batso_40
+  - first:
+      213: -4301204302946982682
+    second: Batso_41
+  - first:
+      213: -6640504048366072386
+    second: Batso_42
+  - first:
+      213: -198287271444908880
+    second: Batso_43
+  - first:
+      213: 4443053476285455184
+    second: Batso_44
+  - first:
+      213: -3001897671783318431
+    second: Batso_45
+  - first:
+      213: 3608008874823690829
+    second: Batso_46
+  - first:
+      213: -8739866328161899453
+    second: Batso_47
+  - first:
+      213: -2238771183299319196
+    second: Batso_48
+  - first:
+      213: -5172198754885033144
+    second: Batso_49
+  - first:
+      213: -8188678481941693976
+    second: Wink_0
+  - first:
+      213: -207189808999731923
+    second: Wink_1
+  - first:
+      213: 4533452427233264438
+    second: Wink_2
+  - first:
+      213: 8994725791227624812
+    second: Wink_3
+  - first:
+      213: -5745916743780843141
+    second: Wink_4
+  - first:
+      213: 5175006708333274753
+    second: Wink_5
+  - first:
+      213: -3691920822165730269
+    second: Wink_0
+  - first:
+      213: -4407760577427195751
+    second: Wink_1
+  - first:
+      213: -7542418374234103070
+    second: Wink_2
+  - first:
+      213: 1998682535198744412
+    second: Wink_3
+  - first:
+      213: 9095096746776434785
+    second: Wink_4
+  - first:
+      213: 1334524483592846419
+    second: Wink_5
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 400
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Wink_0
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 305
+        width: 231
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32c81f7a299a3ccc0800000000000000
+      internalID: -3691920822165730269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wink_1
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 307
+        width: 228
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9983b7fab1d74d2c0800000000000000
+      internalID: -4407760577427195751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wink_2
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 305
+        width: 211
+        height: 291
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e2a5683372f35790800000000000000
+      internalID: -7542418374234103070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wink_3
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 0
+        width: 286
+        height: 235
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5f5c412d2fbcbb10800000000000000
+      internalID: 1998682535198744412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wink_4
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 0
+        width: 306
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1689b65ad46483e70800000000000000
+      internalID: 9095096746776434785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wink_5
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 1
+        width: 315
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35cfc9c72fe258210800000000000000
+      internalID: 1334524483592846419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 4a8927bab3de7d245bca3833d5a30c6c
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,976 @@
+fileFormatVersion: 2
+guid: e31303ea4823dca4999172b4eafdefbe
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 436247547847057660
+    second: Birb_cursed_0
+  - first:
+      213: 3985175064607436548
+    second: Birb_cursed_1
+  - first:
+      213: -3616706353051094636
+    second: Birb_cursed_2
+  - first:
+      213: 5262424155953786261
+    second: Birb_cursed_3
+  - first:
+      213: -7316278405878702969
+    second: Birb_cursed_4
+  - first:
+      213: 1301563701238487237
+    second: Birb_cursed_5
+  - first:
+      213: 2488325480696073263
+    second: Birb_cursed_6
+  - first:
+      213: 6169536419114753252
+    second: Birb_cursed_7
+  - first:
+      213: -5558729521507990361
+    second: Birb_cursed_8
+  - first:
+      213: -2785680756664521131
+    second: Birb_cursed_9
+  - first:
+      213: -1695669161632309578
+    second: Birb_cursed_10
+  - first:
+      213: -3319135492368822206
+    second: Birb_cursed_11
+  - first:
+      213: -7036787155375148048
+    second: Birb_cursed_12
+  - first:
+      213: 6709260803042655791
+    second: Birb_cursed_0
+  - first:
+      213: 5409614875504835814
+    second: Birb_cursed_1
+  - first:
+      213: -4047992234088527055
+    second: Birb_cursed_2
+  - first:
+      213: -3928133552955112587
+    second: Birb_cursed_3
+  - first:
+      213: -2028676438973641982
+    second: Birb_cursed_4
+  - first:
+      213: 7193228127232904552
+    second: Birb_cursed_5
+  - first:
+      213: 1198216966394776768
+    second: Birb_cursed_6
+  - first:
+      213: -8768692921614552428
+    second: Birb_cursed_7
+  - first:
+      213: 1192611720733439277
+    second: Birb_cursed_8
+  - first:
+      213: 4456196558507976137
+    second: Birb_cursed_9
+  - first:
+      213: 4801501086321719774
+    second: Birb_cursed_10
+  - first:
+      213: 6022522813132899748
+    second: Birb_cursed_11
+  - first:
+      213: 3762839469184603996
+    second: Birb_cursed_12
+  - first:
+      213: 456965578317625278
+    second: Birb_cursed_13
+  - first:
+      213: -1741143935898234269
+    second: Birb_cursed_14
+  - first:
+      213: 6484347795449658224
+    second: Birb_cursed_15
+  - first:
+      213: -8012235521348831734
+    second: Birb_cursed_16
+  - first:
+      213: 5122489026111892867
+    second: Birb_cursed_17
+  - first:
+      213: -6478305269442025092
+    second: Birb_cursed_18
+  - first:
+      213: -3963833571484246168
+    second: Birb_cursed_19
+  - first:
+      213: -3839319208761365645
+    second: Birb_cursed_20
+  - first:
+      213: 4206401875620841150
+    second: Birb_cursed_21
+  - first:
+      213: -8887257872131299845
+    second: Birb_cursed_22
+  - first:
+      213: 6481426875994389178
+    second: Birb_cursed_23
+  - first:
+      213: -7814967781557785457
+    second: Birb_cursed_24
+  - first:
+      213: -1826682601582741384
+    second: Birb_cursed_25
+  - first:
+      213: 959915524009804404
+    second: Birb_cursed_26
+  - first:
+      213: 529012985669700794
+    second: Birb_cursed_27
+  - first:
+      213: -1543241488175867428
+    second: Birb_cursed_28
+  - first:
+      213: -9047521345716395159
+    second: Birb_cursed_29
+  - first:
+      213: -5542781661373006963
+    second: Birb_cursed_30
+  - first:
+      213: 6246843895411151418
+    second: Birb_cursed_31
+  - first:
+      213: -7286845032331957345
+    second: Birb_cursed_32
+  - first:
+      213: -3553716279796680646
+    second: Birb_cursed_33
+  - first:
+      213: -9105376295392781652
+    second: Birb_cursed_34
+  - first:
+      213: 6993543880455677794
+    second: Birb_cursed_35
+  - first:
+      213: 2507618812568958953
+    second: Birb_cursed_36
+  - first:
+      213: 1535316569291413118
+    second: Birb_cursed_37
+  - first:
+      213: -2536605304292491035
+    second: Birb_cursed_38
+  - first:
+      213: -8013480762250881286
+    second: Birb_cursed_39
+  - first:
+      213: -5434510877935662313
+    second: Birb_cursed_40
+  - first:
+      213: 2739662374719541136
+    second: Birb_cursed_41
+  - first:
+      213: 2517243334704855541
+    second: Birb_cursed_42
+  - first:
+      213: 8762608225487835584
+    second: Birb_cursed_43
+  - first:
+      213: 5118524599669298066
+    second: Birb_cursed_44
+  - first:
+      213: 8050139337603700820
+    second: Birb_cursed_45
+  - first:
+      213: 8396028078929074998
+    second: Birb_cursed_46
+  - first:
+      213: -667979355488968784
+    second: Birb_cursed_47
+  - first:
+      213: -2142957225183400206
+    second: Birb_cursed_48
+  - first:
+      213: -4470527714781003975
+    second: Birb_cursed_49
+  - first:
+      213: 8252366424606095782
+    second: Birb_cursed_50
+  - first:
+      213: -160253172174511218
+    second: Birb_cursed_51
+  - first:
+      213: 1691838137095249621
+    second: Birb_cursed_52
+  - first:
+      213: 4627277280578211925
+    second: Birb_cursed_53
+  - first:
+      213: 8386994875083951915
+    second: Birb_cursed_54
+  - first:
+      213: 612999130018921952
+    second: Birb_cursed_55
+  - first:
+      213: -3932464772115601175
+    second: Birb_cursed_56
+  - first:
+      213: 3877059186416428302
+    second: Birb_cursed_57
+  - first:
+      213: 4293754193442230752
+    second: Birb_cursed_58
+  - first:
+      213: -8233974985960233993
+    second: Birb_cursed_13
+  - first:
+      213: -2051470337568986738
+    second: Birb_cursed_14
+  - first:
+      213: -1416225775690369547
+    second: Birb_cursed_15
+  - first:
+      213: -5747788211154455840
+    second: Birb_cursed_16
+  - first:
+      213: 6746825477800014500
+    second: Birb_cursed_17
+  - first:
+      213: 8452230583496788881
+    second: Birb_cursed_18
+  - first:
+      213: -5429214574688184068
+    second: Birb_cursed_19
+  - first:
+      213: 5437140245330268596
+    second: Birb_cursed_20
+  - first:
+      213: -3036325554472357826
+    second: Birb_cursed_21
+  - first:
+      213: -8699451685745330144
+    second: Birb_cursed_22
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 326
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Birb_cursed_0
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 2009
+        width: 249
+        height: 346
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2e3fc637251c1d50800000000000000
+      internalID: 6709260803042655791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Birb_cursed_1
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 2009
+        width: 252
+        height: 345
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ec72226110d21b40800000000000000
+      internalID: 5409614875504835814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Birb_cursed_2
+      rect:
+        serializedVersion: 2
+        x: 1129
+        y: 2010
+        width: 255
+        height: 341
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13b0d91a284a2d7c0800000000000000
+      internalID: -4047992234088527055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Birb_cursed_3
+      rect:
+        serializedVersion: 2
+        x: 1512
+        y: 2034
+        width: 472
+        height: 336
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57341d188577c79c0800000000000000
+      internalID: -3928133552955112587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Birb_cursed_4
+      rect:
+        serializedVersion: 2
+        x: 2016
+        y: 2034
+        width: 482
+        height: 333
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20b85c2f681b8d3e0800000000000000
+      internalID: -2028676438973641982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Birb_cursed_5
+      rect:
+        serializedVersion: 2
+        x: 2588
+        y: 2035
+        width: 398
+        height: 332
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86dc010deda73d360800000000000000
+      internalID: 7193228127232904552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Birb_cursed_6
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 1515
+        width: 271
+        height: 284
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cc8ec58bfbe0a010800000000000000
+      internalID: 1198216966394776768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Birb_cursed_7
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 1505
+        width: 310
+        height: 263
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 492beae0f385f4680800000000000000
+      internalID: -8768692921614552428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Birb_cursed_8
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 1519
+        width: 411
+        height: 260
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d25b8419a020d8010800000000000000
+      internalID: 1192611720733439277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Birb_cursed_9
+      rect:
+        serializedVersion: 2
+        x: 1575
+        y: 1503
+        width: 375
+        height: 260
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c5af27f82797dd30800000000000000
+      internalID: 4456196558507976137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Birb_cursed_10
+      rect:
+        serializedVersion: 2
+        x: 2047
+        y: 1498
+        width: 377
+        height: 269
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed9bbde6ccb52a240800000000000000
+      internalID: 4801501086321719774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Birb_cursed_11
+      rect:
+        serializedVersion: 2
+        x: 2604
+        y: 1560
+        width: 296
+        height: 318
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a50970079c449350800000000000000
+      internalID: 6022522813132899748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Birb_cursed_12
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 1011
+        width: 345
+        height: 322
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5751939f8a483430800000000000000
+      internalID: 3762839469184603996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Birb_cursed_13
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 1045
+        width: 258
+        height: 428
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f36360306b0bbd80800000000000000
+      internalID: -8233974985960233993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Birb_cursed_14
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 1083
+        width: 310
+        height: 401
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8923fdd896b783e0800000000000000
+      internalID: -2051470337568986738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Birb_cursed_15
+      rect:
+        serializedVersion: 2
+        x: 1551
+        y: 1052
+        width: 322
+        height: 446
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f53936192e885ce0800000000000000
+      internalID: -1416225775690369547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Birb_cursed_16
+      rect:
+        serializedVersion: 2
+        x: 2119
+        y: 1001
+        width: 326
+        height: 290
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e2f5f53311cb30b0800000000000000
+      internalID: -5747788211154455840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Birb_cursed_17
+      rect:
+        serializedVersion: 2
+        x: 2551
+        y: 1016
+        width: 413
+        height: 323
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a233dd960a81ad50800000000000000
+      internalID: 6746825477800014500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Birb_cursed_18
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 512
+        width: 392
+        height: 360
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19bc4011fea5c4570800000000000000
+      internalID: 8452230583496788881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Birb_cursed_19
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 522
+        width: 325
+        height: 423
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf8565a0c1e87a4b0800000000000000
+      internalID: -5429214574688184068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Birb_cursed_20
+      rect:
+        serializedVersion: 2
+        x: 1094
+        y: 601
+        width: 336
+        height: 265
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b114e4fe3a947b40800000000000000
+      internalID: 5437140245330268596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Birb_cursed_21
+      rect:
+        serializedVersion: 2
+        x: 1603
+        y: 557
+        width: 325
+        height: 314
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e30fb3fcefdccd5d0800000000000000
+      internalID: -3036325554472357826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Birb_cursed_22
+      rect:
+        serializedVersion: 2
+        x: 2109
+        y: 541
+        width: 297
+        height: 344
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 028f97298c6554780800000000000000
+      internalID: -8699451685745330144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Birb_cursed_23
+      rect:
+        serializedVersion: 2
+        x: 2649
+        y: 547
+        width: 265
+        height: 338
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abab0555767a2f950800000000000000
+      internalID: 6481426875994389178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Birb_cursed_24
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 29
+        width: 312
+        height: 311
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8c20294538ab8390800000000000000
+      internalID: -7814967781557785457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Birb_cursed_25
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 10
+        width: 306
+        height: 329
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 878364f1ad156a6e0800000000000000
+      internalID: -1826682601582741384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Birb_cursed_26
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 10
+        width: 349
+        height: 325
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 472ccfe451e425d00800000000000000
+      internalID: 959915524009804404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Birb_cursed_27
+      rect:
+        serializedVersion: 2
+        x: 1555
+        y: 4
+        width: 388
+        height: 344
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abc4964f18e675700800000000000000
+      internalID: 529012985669700794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 4012ad3807e8989419b75ae3277a6adf
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

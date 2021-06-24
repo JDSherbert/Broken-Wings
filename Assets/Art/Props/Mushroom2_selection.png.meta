@@ -1,0 +1,1126 @@
+fileFormatVersion: 2
+guid: 18e3bf87335aeca4a918188d52be24e5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8799397718415823617
+    second: Mushroom2_selection_0
+  - first:
+      213: -8360878283599042400
+    second: Mushroom2_selection_1
+  - first:
+      213: 1050114538988533668
+    second: Mushroom2_selection_2
+  - first:
+      213: -2708613098204662860
+    second: Mushroom2_selection_3
+  - first:
+      213: 8224124176648310343
+    second: Mushroom2_selection_4
+  - first:
+      213: -1030115362065853797
+    second: Mushroom2_selection_5
+  - first:
+      213: 8715905794145640314
+    second: Mushroom2_selection_6
+  - first:
+      213: 7946934077288627018
+    second: Mushroom2_selection_7
+  - first:
+      213: -4689886214160699713
+    second: Mushroom2_selection_8
+  - first:
+      213: -8463312891220399436
+    second: Mushroom2_selection_9
+  - first:
+      213: 2763560717939973991
+    second: Mushroom2_selection_10
+  - first:
+      213: 5584504737051986518
+    second: Mushroom2_selection_11
+  - first:
+      213: -5543835118089882836
+    second: Mushroom2_selection_12
+  - first:
+      213: 3535783911825983848
+    second: Mushroom2_selection_13
+  - first:
+      213: 2400808070172073593
+    second: Mushroom2_selection_14
+  - first:
+      213: -1073252628280247509
+    second: Mushroom2_selection_15
+  - first:
+      213: -8662989679541896872
+    second: Mushroom2_selection_16
+  - first:
+      213: 8871707469471610716
+    second: Mushroom2_selection_17
+  - first:
+      213: 7746101457686792041
+    second: Mushroom2_selection_18
+  - first:
+      213: -8270430411689058544
+    second: Mushroom2_selection_19
+  - first:
+      213: -4241311001402246805
+    second: Mushroom2_selection_20
+  - first:
+      213: 3821587882562061935
+    second: Mushroom2_selection_21
+  - first:
+      213: 6553373409018798225
+    second: Mushroom2_selection_22
+  - first:
+      213: -8170012088956106512
+    second: Mushroom2_selection_23
+  - first:
+      213: -5260451776609857923
+    second: Mushroom2_selection_24
+  - first:
+      213: 6168569169972133941
+    second: Mushroom2_selection_25
+  - first:
+      213: -8042466501565419798
+    second: Mushroom2_selection_26
+  - first:
+      213: 586820703028484483
+    second: Mushroom2_selection_27
+  - first:
+      213: -2418473692290148647
+    second: Mushroom2_selection_28
+  - first:
+      213: 3428120147945845993
+    second: Mushroom2_selection_29
+  - first:
+      213: -1429154311345683191
+    second: Mushroom2_selection_30
+  - first:
+      213: -4171832184014306878
+    second: Mushroom2_selection_31
+  - first:
+      213: -8943581543962027853
+    second: Mushroom2_selection_32
+  - first:
+      213: -2171182250120117557
+    second: Mushroom2_selection_33
+  - first:
+      213: -7915972216341935903
+    second: Mushroom2_selection_34
+  - first:
+      213: 2522214356864947883
+    second: Mushroom2_selection_35
+  - first:
+      213: 3373943356116683747
+    second: Mushroom2_selection_36
+  - first:
+      213: 7669857898133479145
+    second: Mushroom2_selection_37
+  - first:
+      213: -4505173623530780074
+    second: Mushroom2_selection_38
+  - first:
+      213: -6638356171819371893
+    second: Mushroom2_selection_39
+  - first:
+      213: -7461133096040121080
+    second: Mushroom2_selection_40
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 400
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Mushroom2_selection_0
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 2568
+        width: 221
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffc2174756242e580800000000000000
+      internalID: -8799397718415823617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushroom2_selection_1
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 2332
+        width: 306
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a82dc7bf7138fb80800000000000000
+      internalID: -8360878283599042400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushroom2_selection_2
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 2355
+        width: 571
+        height: 501
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a772e50c91c29e00800000000000000
+      internalID: 1050114538988533668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushroom2_selection_3
+      rect:
+        serializedVersion: 2
+        x: 1542
+        y: 2389
+        width: 684
+        height: 398
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b37a8fecb2196ad0800000000000000
+      internalID: -2708613098204662860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushroom2_selection_4
+      rect:
+        serializedVersion: 2
+        x: 2283
+        y: 2393
+        width: 612
+        height: 366
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74e03d98d55f12270800000000000000
+      internalID: 8224124176648310343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushroom2_selection_5
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 2162
+        width: 264
+        height: 351
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b925466398b44b1f0800000000000000
+      internalID: -1030115362065853797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushroom2_selection_6
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 1702
+        width: 271
+        height: 462
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7fd1d3142e15f870800000000000000
+      internalID: 8715905794145640314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushroom2_selection_7
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 1655
+        width: 327
+        height: 647
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4b3c3a407e294e60800000000000000
+      internalID: 7946934077288627018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushroom2_selection_8
+      rect:
+        serializedVersion: 2
+        x: 1715
+        y: 1637
+        width: 373
+        height: 699
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbe23f7165d2aeeb0800000000000000
+      internalID: -4689886214160699713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushroom2_selection_9
+      rect:
+        serializedVersion: 2
+        x: 2115
+        y: 1706
+        width: 360
+        height: 592
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bae2d714c54c8a80800000000000000
+      internalID: -8463312891220399436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushroom2_selection_10
+      rect:
+        serializedVersion: 2
+        x: 2541
+        y: 1652
+        width: 398
+        height: 646
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76f190cb4d32a5620800000000000000
+      internalID: 2763560717939973991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushroom2_selection_11
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 1470
+        width: 536
+        height: 636
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65a487a6875208d40800000000000000
+      internalID: 5584504737051986518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushroom2_selection_12
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 1702
+        width: 334
+        height: 435
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c23bae425575013b0800000000000000
+      internalID: -5543835118089882836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushroom2_selection_13
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 836
+        width: 627
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 869cde20cb0a11130800000000000000
+      internalID: 3535783911825983848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushroom2_selection_14
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 1164
+        width: 543
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97e5f744832615120800000000000000
+      internalID: 2400808070172073593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushroom2_selection_15
+      rect:
+        serializedVersion: 2
+        x: 1243
+        y: 1111
+        width: 148
+        height: 413
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2bf911cb6a0b11f0800000000000000
+      internalID: -1073252628280247509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushroom2_selection_16
+      rect:
+        serializedVersion: 2
+        x: 1442
+        y: 1106
+        width: 232
+        height: 413
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 859b702f8c0e6c780800000000000000
+      internalID: -8662989679541896872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushroom2_selection_17
+      rect:
+        serializedVersion: 2
+        x: 1734
+        y: 1104
+        width: 162
+        height: 458
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c57f80d60f2ae1b70800000000000000
+      internalID: 8871707469471610716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushroom2_selection_18
+      rect:
+        serializedVersion: 2
+        x: 1926
+        y: 1119
+        width: 265
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9678e833c3eaf7b60800000000000000
+      internalID: 7746101457686792041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushroom2_selection_19
+      rect:
+        serializedVersion: 2
+        x: 2270
+        y: 1249
+        width: 196
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01f9fa3fb57893d80800000000000000
+      internalID: -8270430411689058544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushroom2_selection_20
+      rect:
+        serializedVersion: 2
+        x: 2535
+        y: 846
+        width: 394
+        height: 705
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b69767b9d16d325c0800000000000000
+      internalID: -4241311001402246805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushroom2_selection_21
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 520
+        width: 719
+        height: 541
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f668c0a7ee1090530800000000000000
+      internalID: 3821587882562061935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushroom2_selection_22
+      rect:
+        serializedVersion: 2
+        x: 1363
+        y: 807
+        width: 311
+        height: 287
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1906e0de46242fa50800000000000000
+      internalID: 6553373409018798225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushroom2_selection_23
+      rect:
+        serializedVersion: 2
+        x: 1981
+        y: 868
+        width: 242
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f8cf1baa494e9e80800000000000000
+      internalID: -8170012088956106512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushroom2_selection_24
+      rect:
+        serializedVersion: 2
+        x: 2336
+        y: 739
+        width: 215
+        height: 396
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7ec811fafe1ff6b0800000000000000
+      internalID: -5260451776609857923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushroom2_selection_25
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 33
+        width: 519
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5308d944af82b9550800000000000000
+      internalID: 6168569169972133941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushroom2_selection_26
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 538
+        width: 180
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aeee630e35b636090800000000000000
+      internalID: -8042466501565419798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushroom2_selection_27
+      rect:
+        serializedVersion: 2
+        x: 1698
+        y: 603
+        width: 280
+        height: 231
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3899bdef15ec42800800000000000000
+      internalID: 586820703028484483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushroom2_selection_28
+      rect:
+        serializedVersion: 2
+        x: 2214
+        y: 483
+        width: 400
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d61b609dfadf6ed0800000000000000
+      internalID: -2418473692290148647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushroom2_selection_29
+      rect:
+        serializedVersion: 2
+        x: 2658
+        y: 389
+        width: 284
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e4fba19c11239f20800000000000000
+      internalID: 3428120147945845993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushroom2_selection_30
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 80
+        width: 202
+        height: 297
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 905c50fc9bf9a2ce0800000000000000
+      internalID: -1429154311345683191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushroom2_selection_31
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 55
+        width: 267
+        height: 425
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c109416bbcaa16c0800000000000000
+      internalID: -4171832184014306878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushroom2_selection_32
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 33
+        width: 146
+        height: 431
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b8576c88f302e380800000000000000
+      internalID: -8943581543962027853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushroom2_selection_33
+      rect:
+        serializedVersion: 2
+        x: 1447
+        y: 42
+        width: 114
+        height: 397
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc205f63f396ed1e0800000000000000
+      internalID: -2171182250120117557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushroom2_selection_34
+      rect:
+        serializedVersion: 2
+        x: 1655
+        y: 40
+        width: 187
+        height: 507
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e8c319b531d42290800000000000000
+      internalID: -7915972216341935903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushroom2_selection_35
+      rect:
+        serializedVersion: 2
+        x: 1945
+        y: 45
+        width: 90
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba653542894b00320800000000000000
+      internalID: 2522214356864947883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushroom2_selection_36
+      rect:
+        serializedVersion: 2
+        x: 2104
+        y: 40
+        width: 141
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ebcf914b97a2de20800000000000000
+      internalID: 3373943356116683747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushroom2_selection_37
+      rect:
+        serializedVersion: 2
+        x: 2314
+        y: 33
+        width: 120
+        height: 375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ee58f72f1fc07a60800000000000000
+      internalID: 7669857898133479145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushroom2_selection_38
+      rect:
+        serializedVersion: 2
+        x: 2484
+        y: 34
+        width: 108
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65a0df575786a71c0800000000000000
+      internalID: -4505173623530780074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushroom2_selection_39
+      rect:
+        serializedVersion: 2
+        x: 2627
+        y: 33
+        width: 166
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b823f26bb32dfd3a0800000000000000
+      internalID: -6638356171819371893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushroom2_selection_40
+      rect:
+        serializedVersion: 2
+        x: 2837
+        y: 49
+        width: 133
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80d3e9cdafab47890800000000000000
+      internalID: -7461133096040121080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
