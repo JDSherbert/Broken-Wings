@@ -12,7 +12,7 @@
   -----------------------------------------------------------------------
   
   <a href="https://globalgamejam.org/2021/games/broken-wings-9"> 
-  <img align="top" alt="Global Gamejam 2021 Submission"  src="https://img.shields.io/badge/GGJ%202023%20Submission-purple.svg?style=for-the-badge&logo=GameDeveloper&logoColor=white&color=black&labelColor=purple"> </a>
+  <img align="top" alt="Global Gamejam 2021 Submission"  src="https://img.shields.io/badge/GGJ%202021%20Submission-purple.svg?style=for-the-badge&logo=GameDeveloper&logoColor=white&color=black&labelColor=purple"> </a>
   <a href="https://jdsherbert.itch.io/broken-wings"> 
   <img align="top" alt="Play on Itch.io"  src="https://img.shields.io/badge/Play%20on%20Itch.io-FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white&color=black&labelColor=FF0B34"> </a>
   
