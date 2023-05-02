@@ -7,6 +7,7 @@
   <a href = "https://learn.microsoft.com/en-us/dotnet/csharp"><img align="left" height="40" img width="40" src="https://cdn.simpleicons.org/csharp"></a>
   <img align="right" alt="stars badge"  src="https://img.shields.io/github/stars/jdsherbert/broken-wings"/>
   <img align="right" alt="forks badge"  src="https://img.shields.io/github/forks/jdsherbert/broken-wings?label=Fork"/>
+  <img align="right" alt="watching badge"  src="https://img.shields.io/github/watchers/jdsherbert/broken-wings"/>
   <img align="right" alt="Visitors"     src="https://visitor-badge.glitch.me/badge?page_id=github.com/jdsherbert/broken-wings"/>
   <br></br>
   -----------------------------------------------------------------------
