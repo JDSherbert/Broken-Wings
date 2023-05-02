@@ -1,3 +1,5 @@
+![Logo](https://user-images.githubusercontent.com/43964243/235801148-b3d08953-af27-4ca3-81b6-b552a2698279.png)
+
 # Broken-Wings
 
 <!-- Header Start -->
@@ -10,18 +12,18 @@
   -----------------------------------------------------------------------
   
   <a href="https://globalgamejam.org/2021/games/broken-wings-9"> 
-  <img align="top" alt="Global Gamejam 2023 Submission"  src="https://img.shields.io/badge/GGJ%202023%20Submission-purple.svg?style=for-the-badge&logo=GameDeveloper&logoColor=white&color=black&labelColor=purple"> </a>
+  <img align="top" alt="Global Gamejam 2021 Submission"  src="https://img.shields.io/badge/GGJ%202023%20Submission-purple.svg?style=for-the-badge&logo=GameDeveloper&logoColor=white&color=black&labelColor=purple"> </a>
   <a href="https://jdsherbert.itch.io/broken-wings"> 
   <img align="top" alt="Play on Itch.io"  src="https://img.shields.io/badge/Play%20on%20Itch.io-FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white&color=black&labelColor=FF0B34"> </a>
   
   
   -----------------------------------------------------------------------
-Repository for the Global Gamejam 2023 project Broken Wings.
+Repository for the Global Gamejam 2021 project Broken Wings.
 Broken Wings is a 2.5D Action Platformer created for Global Game Jam 2021.
 The theme was "Lost and Found". 
  
- - GGJ page: https://globalgamejam.org/2023/games/farmfall-8
- - Itch page: https://jdsherbert.itch.io/farmfall
+ - GGJ page: https://globalgamejam.org/2021/games/broken-wings-9
+ - Itch page: https://jdsherbert.itch.io/broken-wings
 
 ## Credits
  - 💠 JDSherbert: Code + Audio
